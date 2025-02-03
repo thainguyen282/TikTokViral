@@ -1,0 +1,59 @@
+{
+    "author": {
+        "commentSetting": 0,
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "ftc": false,
+        "id": "6629003576075091973",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickname": "World Health Organization (WHO)",
+        "openFavorite": false,
+        "privateAccount": false,
+        "relation": 0,
+        "secUid": "MS4wLjABAAAAKM6m9zgo1isU6IU4UfcOOLr9HjpCoNDNxYW6Y9yLZTMbpvU3hANRsbDMiNY-5m7D",
+        "secret": false,
+        "signature": "We are the United Nations\u2019 health agency: #HealthForAll!",
+        "stitchSetting": 0,
+        "ttSeller": false,
+        "uniqueId": "who",
+        "verified": true
+    },
+    "author_stat": {
+        "diggCount": 105,
+        "followerCount": 2800000,
+        "followingCount": 25,
+        "friendCount": 0,
+        "heart": 10200000,
+        "heartCount": 10200000,
+        "videoCount": 357
+    },
+    "createTime": 1583422329,
+    "desc": "How is #COVID19 spread? #coronavirus",
+    "digged": false,
+    "duetDisplay": 0,
+    "duetEnabled": false,
+    "officalItem": false,
+    "originalItem": false,
+    "stats": {
+        "collectCount": 13300,
+        "commentCount": 3206,
+        "diggCount": 541800,
+        "playCount": 18900000,
+        "shareCount": 39500
+    },
+    "stickersOnItem": null,
+    "stitchDisplay": 0,
+    "stitchEnabled": true,
+    "hashtagInfo": [
+        {
+            "hashtagId": "1658256581292037",
+            "hashtagName": "covid19"
+        },
+        {
+            "hashtagId": "1635241621599237",
+            "hashtagName": "coronavirus"
+        }
+    ],
+    "videoURL": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c800-us/b784670f056d4452a0e1909b9905d083/?a=1988&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=368&bt=184&bti=NDU3ZjAwOg%3D%3D&cs=0&ds=3&ft=4fUEKMUm8Zmo0pEHY94jVtxMJpWrKsd.&mime_type=video_mp4&qs=0&rc=NjRpPDxpaWloZTo3M2g0ZUBpMzlxaGZqOXJrczMzOjczM0BiNmBjNS00XzExMjEyMWAwYSMvMXA0ZV5eamRfLS0xMTZzcw%3D%3D&btag=e00088000&expire=1711272814&l=202403220932544A5DF72A9F2FF60210B7&ply_type=2&policy=2&signature=7eeaa2038e42efc98817c5e13544b407&tk=tt_chain_token"
+}
